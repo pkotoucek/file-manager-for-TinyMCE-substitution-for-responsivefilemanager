@@ -6,7 +6,7 @@ Library Is For Educational Purposes Only Directly Connected With Project PrimaKa
 
 ## 2. INFO
 Unfortunatelly [responsivefilemanager](https://www.responsivefilemanager.com/) official development ended in 2019, even it some updated are foundable on GIT (TinyMCE supported version is 5!!!).
-FLMNGR-SERVER-PHP tested with TinyMCE v7.5 and till now seems promissable (with rest of settings from training also OK!).
+FLMNGR-SERVER-PHP tested with TinyMCE v7.5 and till now seems promissable (with rest of settings from training also OK!), however is only online solution!
 
 ## 3. Installation
 The easiest way to install the library is using [Composer](https://getcomposer.org/):
