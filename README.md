@@ -34,14 +34,14 @@ composer update edsdk/flmngr-server-php
 ```
 
 ## 5. Donwload file-manager folder (only for offline presentation)
-As with Composer was downladed pure online solution, so from [flmngr-tinymce](https://github.com/edsdk/flmngr-tinymce) downloaded.
-And added whole folder to your-path\xampp\htdocs\primakavarna\vendor\tinymce\tinymce\plugins
+As with Composer was downladed pure online solution, so from [flmngr-tinymce](https://github.com/edsdk/flmngr-tinymce) download
+and add "file-manager" folder to your-path\xampp\htdocs\primakavarna\vendor\tinymce\tinymce\plugins
 
 ## 6. Register API and gain API key
-Open for example [primakavarna/stranka-uvod](http://localhost/primakavarna/admin.php?stranka=uvod) and hit "upload":
-![image](https://github.com/user-attachments/assets/c139f6ae-e261-4b5d-85f1-3c2462001c3e)
+Offline presentation: open for example [primakavarna/stranka-uvod](http://localhost/primakavarna/admin.php?stranka=uvod) and hit "upload":
+![image](https://github.com/user-attachments/assets/c139f6ae-e261-4b5d-85f1-3c2462001c3e) => register your API.
 
-If you skipped step 5, you can [register](https://flmngr.com/dashboard) directly.
+If you skipped step 5, you can [register](https://flmngr.com/dashboard) your API directly.
 
 Finish all settings:
 ![image](https://github.com/user-attachments/assets/69b35cf1-51f2-415c-90cb-5072f7c9c41e)
