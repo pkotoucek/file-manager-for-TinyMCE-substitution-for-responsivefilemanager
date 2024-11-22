@@ -52,7 +52,7 @@ composer update edsdk/flmngr-server-php
 
 ```
 
-## 5. Donwload file-manager folder (only for offline presentation)
+## 5. Download file-manager folder (only for offline presentation)
 As with Composer was downladed pure online solution, so from [flmngr-tinymce](https://github.com/edsdk/flmngr-tinymce) download
 and add "file-manager" folder to your-path\xampp\htdocs\primakavarna\vendor\tinymce\tinymce\plugins
 
