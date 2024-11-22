@@ -36,7 +36,8 @@ composer update edsdk/flmngr-server-php
 
  My installed version:
  
- ![image](https://github.com/user-attachments/assets/e9d9ab65-6973-4020-815a-1f685b7e71ba)
+![image](https://github.com/user-attachments/assets/53f3c016-29d0-44bb-822b-51431f85fe73)
+
 
 ## 4. Create flmngr.php in root of your project
 
