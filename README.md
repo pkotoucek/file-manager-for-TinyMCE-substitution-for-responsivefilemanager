@@ -17,7 +17,25 @@ composer require tinymce/tinymce
 composer update edsdk/flmngr-server-php
 
 ```
+
+update all composer repositories in one shot:
+
+```sh
+
+composer update
+
+```
+
+update only flmngr:
+
+```sh
+
+composer update edsdk/flmngr-server-php
+
+```
+
  My installed version:
+ 
  ![image](https://github.com/user-attachments/assets/e9d9ab65-6973-4020-815a-1f685b7e71ba)
 
 ## 4. Create flmngr.php in root of your project
